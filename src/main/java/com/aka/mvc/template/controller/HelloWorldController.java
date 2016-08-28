@@ -22,4 +22,5 @@ public class HelloWorldController {
         return new ModelAndView("welcome","message", message);
     }
 
+
 }

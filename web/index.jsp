@@ -11,6 +11,9 @@
     <title>INDEX</title>
   </head>
   <body>
- ${message}
+
+  <a href="/welcome.html">Welcome</a>
+
+
   </body>
 </html>
