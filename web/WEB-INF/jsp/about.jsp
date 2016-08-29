@@ -8,13 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>INDEX</title>
+    <title>ABOUT</title>
   </head>
   <body>
-
-  <a href="/about.html">About</a>
-  <a href="/admin/">Welcome</a>
-
-  ${message}
+ ${message}
   </body>
 </html>
