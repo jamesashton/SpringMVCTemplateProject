@@ -11,10 +11,10 @@
     <title>${title}</title>
   </head>
   <body>
- <H1>${title}</H1>
- <br />
- <a href="index.html">Home</a>
- <a href="about.html">About</a>
- <a href="admin/home.html">Admin</a>
+  <H1>${title}</H1>
+  <br />
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="admin/home.html">Admin</a>
   </body>
 </html>
