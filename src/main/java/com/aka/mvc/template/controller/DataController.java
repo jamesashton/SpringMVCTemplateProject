@@ -19,7 +19,6 @@ public class DataController {
     }
 
     @RequestMapping(value = "/{searchString}/search.json", method=RequestMethod.GET)
-
     public Item getItem(@PathVariable String searchString) {
         Item item = new Item();
         item.setDate1(new Date());
